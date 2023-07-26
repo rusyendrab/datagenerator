@@ -1,0 +1,47 @@
+{
+    "InvoiceNumber": "93574032",
+    "CreatedTime": 1690071715185,
+    "StoreID": "STR7443",
+    "PosID": "POS333",
+    "CashierID": "OAS883",
+    "CustomerType": "NONPRIME",
+    "CustomerCardNo": "5483488802",
+    "TotalAmount": 9003.0,
+    "NumberOfItems": 3,
+    "PaymentMethod": "CASH",
+    "TaxableAmount": 9003.0,
+    "CGST": 225.07500000000002,
+    "SGST": 225.07500000000002,
+    "CESS": 11.25375,
+    "DeliveryType": "HOME-DELIVERY",
+    "DeliveryAddress": {
+        "AddressLine": "House No 639,1344 Nisl St.",
+        "City": "Farrukhabad-cum-Fatehgarh",
+        "State": "Uttar Pradesh",
+        "PinCode": "481405",
+        "ContactNumber": "5281218896"
+    },
+    "InvoiceLineItems": [
+        {
+            "ItemCode": "388",
+            "ItemDescription": "Memory Foam",
+            "ItemPrice": 1884.0,
+            "ItemQty": 2,
+            "TotalValue": 3768.0
+        },
+        {
+            "ItemCode": "438",
+            "ItemDescription": "Lead glass",
+            "ItemPrice": 2069.0,
+            "ItemQty": 1,
+            "TotalValue": 2069.0
+        },
+        {
+            "ItemCode": "613",
+            "ItemDescription": "Goblet Pleat Drapes",
+            "ItemPrice": 1583.0,
+            "ItemQty": 2,
+            "TotalValue": 3166.0
+        }
+    ]
+}
